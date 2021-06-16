@@ -1,11 +1,11 @@
-https://sqlite.org/forum/forumpost/47c7eb6802
+[link](https://sqlite.org/forum/forumpost/47c7eb6802)
 A stack overflow in tool used to help build SQLite's TCL extension on Windows
 
-https://sqlite.org/forum/forumpost/7dcd751996
+[link](https://sqlite.org/forum/forumpost/7dcd751996)
 A format string vulnerability in tool used to help build SQLite's TCL extension on Windows
 
-https://sqlite.org/forum/forumpost/ce1193be15
+[link](https://sqlite.org/forum/forumpost/ce1193be15)
 [Bug] A NULL pointer dereference bug was discovered in SQLite
 
-https://sqlite.org/forum/forumpost/2a909afa35
+[link](https://sqlite.org/forum/forumpost/2a909afa35)
 [bug] A stack buffer overflow vulnerability was discovered in SQLite 3.36.0
