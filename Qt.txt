@@ -1,4 +1,6 @@
+CVE-2021-33416[RESERVED]
 https://bugreports.qt.io/browse/QTBUG-93808
 QTextCodec::codecForName NULL Pointer Dereference
+
 
 
